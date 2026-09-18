@@ -4,7 +4,7 @@
 
 # Kitewell — Backend
 
-Express API for the Kitewell Stellar Testnet experience. Aggregates Horizon account and payment reads, and exposes network + optional Soroban contract config for the UI.
+Express API for the Kitewell wallet. Aggregates Horizon account and payment reads, and exposes network plus optional Soroban contract config for the UI.
 
 Sibling repos:
 
