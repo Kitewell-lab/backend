@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="96" alt="Kitewell logo" />
+</p>
+
 # Kitewell — Backend
 
 Express API for the Kitewell Stellar Testnet experience. Aggregates Horizon account and payment reads, and exposes network + optional Soroban contract config for the UI.
