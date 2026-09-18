@@ -16,7 +16,7 @@ npm run dev   # http://localhost:8787
 3. Do not accept or store secret keys
 4. Keep the API Testnet-oriented unless the issue says otherwise
 
-Sibling layers: [frontend](https://github.com/ayyldCem-0/frontend), [contract](https://github.com/ayyldCem-0/contract).
+Sibling layers: [frontend](https://github.com/Kitewell-lab/frontend), [contract](https://github.com/Kitewell-lab/contract).
 
 ## Code of conduct
 

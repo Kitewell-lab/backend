@@ -10,8 +10,8 @@ Sibling repos:
 
 | Layer | Repo |
 |-------|------|
-| Frontend | [ayyldCem-0/frontend](https://github.com/ayyldCem-0/frontend) |
-| Contract | [ayyldCem-0/contract](https://github.com/ayyldCem-0/contract) |
+| Frontend | [Kitewell-lab/frontend](https://github.com/Kitewell-lab/frontend) |
+| Contract | [Kitewell-lab/contract](https://github.com/Kitewell-lab/contract) |
 
 ## API
 
@@ -32,7 +32,7 @@ cp .env.example .env   # optional
 npm run dev
 ```
 
-After deploying the [contract](https://github.com/ayyldCem-0/contract) on Testnet:
+After deploying the [contract](https://github.com/Kitewell-lab/contract) on Testnet:
 
 ```bash
 export KITEWELL_CONTRACT_ID=C...
