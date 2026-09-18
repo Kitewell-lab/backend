@@ -1,6 +1,6 @@
-# Helios Lab — Backend
+# Kitewell — Backend
 
-Express API for the Helios Lab Stellar Testnet experience. Aggregates Horizon account and payment reads, and exposes network + optional Soroban contract config for the UI.
+Express API for the Kitewell Stellar Testnet experience. Aggregates Horizon account and payment reads, and exposes network + optional Soroban contract config for the UI.
 
 Sibling repos:
 
@@ -31,7 +31,7 @@ npm run dev
 After deploying the [contract](https://github.com/ayyldCem-0/contract) on Testnet:
 
 ```bash
-export HELIOS_LAB_CONTRACT_ID=C...
+export KITEWELL_CONTRACT_ID=C...
 npm start
 ```
 
@@ -44,7 +44,7 @@ npm start
 | `HORIZON_URL` | `https://horizon-testnet.stellar.org` |
 | `FRIENDBOT_URL` | `https://friendbot.stellar.org` |
 | `EXPLORER_BASE` | `https://stellar.expert/explorer/testnet` |
-| `HELIOS_LAB_CONTRACT_ID` | unset |
+| `KITEWELL_CONTRACT_ID` | unset |
 
 The backend never handles secret keys. Signing stays in Freighter on the frontend.
 

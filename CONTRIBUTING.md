@@ -1,4 +1,4 @@
-# Contributing to Helios Lab Backend
+# Contributing to Kitewell Backend
 
 Horizon helpers and lab API for Stellar Testnet.
 
